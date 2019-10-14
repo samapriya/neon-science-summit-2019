@@ -1,0 +1,7 @@
+jupyter
+ipykernel
+planet
+rasterio
+fiona
+matplotlib
+humanize
